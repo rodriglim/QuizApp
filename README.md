@@ -11,7 +11,7 @@
 * Java<img align="center" alt="rodrig-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><br>
 * AndroidStudio<img align="center" alt="rodrig-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"><br>
 
-## ![Tecnologia Usada_](https://user-images.githubusercontent.com/109808618/209172356-0c1f8e58-4f01-49fc-a415-234631f463ed.png)
+## ![Observações](https://user-images.githubusercontent.com/109808618/209174007-efc1f8a3-dd94-4fca-92de-cfbef07d9f2b.png)
 
 * Nenhuma API foi utilizada
 * Em caso de derrota ou vitória, ocorrerá 3 segundos de espera e será redirecionado a segunda tela de splash
