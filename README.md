@@ -26,6 +26,6 @@
 ### Tela de Perguntas
 ![iPhone 14 - 4](https://user-images.githubusercontent.com/109808618/209173489-6c71cf93-c13e-4e36-9381-05c6deeaf63a.png)
 
-### Telas de Vítoria e Derrota
+### Telas de Vitória e Derrota
 ![iPhone 14 - 5](https://user-images.githubusercontent.com/109808618/209173567-e094e7b1-ec25-4556-b42a-e111f5cef2a0.png)
 ![iPhone 14 - 6](https://user-images.githubusercontent.com/109808618/209173570-226983ce-fdae-43a5-a534-bfe2eb6cda17.png)
